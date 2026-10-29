@@ -1,0 +1,8 @@
+{
+  "name": "Vantage AI - Mock Interview Trainer",
+  "description": "Interactive AI-powered mock interview simulator with real-time audio interaction, adaptive follow-ups, STAR method evaluation, and hiring committee scorecards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
